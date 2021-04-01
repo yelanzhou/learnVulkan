@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Vulkan\Vulkan\Vulkan\</FILEPATH>
+      <FILENAME>VulkanFence.cpp</FILENAME>
+      <LINE>13</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>枚举类型“VkResult”未设定范围。相比于 "enum"，首选 "enum class" (Enum.3)。</DESCRIPTION>
+    <FUNCTION>VulkanFence::{ctor}</FUNCTION>
+    <DECORATED>??0VulkanFence@@QEAA@V?$shared_ptr@VVulkanDevice@@@std@@@Z</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Vulkan\Vulkan\Vulkan\</FILEPATH>
+      <FILENAME>VulkanPipeline.cpp</FILENAME>
+      <LINE>253</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>枚举类型“VkResult”未设定范围。相比于 "enum"，首选 "enum class" (Enum.3)。</DESCRIPTION>
+    <FUNCTION>VulkanPipeline::initPipeline</FUNCTION>
+    <DECORATED>?initPipeline@VulkanPipeline@@AEAAXXZ</DECORATED>
+    <FUNCLINE>66</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Vulkan\Vulkan\Vulkan\</FILEPATH>
+      <FILENAME>VulkanPipeline.cpp</FILENAME>
+      <LINE>369</LINE>
+      <COLUMN>22</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>枚举类型“VkStructureType”未设定范围。相比于 "enum"，首选 "enum class" (Enum.3)。</DESCRIPTION>
+    <FUNCTION>VulkanPipeline::initViewportState</FUNCTION>
+    <DECORATED>?initViewportState@VulkanPipeline@@AEAA?AV?$shared_ptr@UVkPipelineViewportStateCreateInfo@@@std@@XZ</DECORATED>
+    <FUNCLINE>351</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

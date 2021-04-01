@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Vulkan\Vulkan\Vulkan\</FILEPATH>
+      <FILENAME>VulkanRenderPass.cpp</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>30</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>枚举类型“VkFormat”未设定范围。相比于 "enum"，首选 "enum class" (Enum.3)。</DESCRIPTION>
+    <FUNCTION>VulkanRenderPass::{ctor}</FUNCTION>
+    <DECORATED>??0VulkanRenderPass@@QEAA@V?$shared_ptr@VVulkanDevice@@@std@@V?$shared_ptr@VVulkanSwapChainKHR@@@2@@Z</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Vulkan\Vulkan\Vulkan\</FILEPATH>
+      <FILENAME>VulkanRenderPass.cpp</FILENAME>
+      <LINE>62</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>枚举类型“VkResult”未设定范围。相比于 "enum"，首选 "enum class" (Enum.3)。</DESCRIPTION>
+    <FUNCTION>VulkanRenderPass::{ctor}</FUNCTION>
+    <DECORATED>??0VulkanRenderPass@@QEAA@V?$shared_ptr@VVulkanDevice@@@std@@V?$shared_ptr@VVulkanSwapChainKHR@@@2@@Z</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

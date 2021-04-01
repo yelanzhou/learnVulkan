@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Vulkan\Vulkan\Vulkan\</FILEPATH>
+      <FILENAME>VulkanHostVisibleVertexBuffer.cpp</FILENAME>
+      <LINE>10</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>枚举类型“VkResult”未设定范围。相比于 "enum"，首选 "enum class" (Enum.3)。</DESCRIPTION>
+    <FUNCTION>VulkanHostVisibleVertexBuffer::{ctor}</FUNCTION>
+    <DECORATED>??0VulkanHostVisibleVertexBuffer@@QEAA@V?$shared_ptr@VVulkanDevice@@@std@@V?$shared_ptr@VVulkanGpu@@@2@V?$vector@UVertexData@@V?$allocator@UVertexData@@@std@@@2@@Z</DECORATED>
+    <FUNCLINE>6</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

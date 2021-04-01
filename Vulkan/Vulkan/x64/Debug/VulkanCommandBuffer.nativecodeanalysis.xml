@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Vulkan\Vulkan\Vulkan\</FILEPATH>
+      <FILENAME>VulkanCommandBuffer.cpp</FILENAME>
+      <LINE>24</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>枚举类型“VkResult”未设定范围。相比于 "enum"，首选 "enum class" (Enum.3)。</DESCRIPTION>
+    <FUNCTION>VulkanCommandBuffer::{ctor}</FUNCTION>
+    <DECORATED>??0VulkanCommandBuffer@@QEAA@V?$shared_ptr@VVulkanDevice@@@std@@V?$shared_ptr@VVulkanCommandPool@@@2@@Z</DECORATED>
+    <FUNCLINE>13</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>D:\Vulkan\Vulkan\Vulkan\</FILEPATH>
+      <FILENAME>VulkanCommandBuffer.cpp</FILENAME>
+      <LINE>88</LINE>
+      <COLUMN>26</COLUMN>
+    </SFA>
+    <DEFECTCODE>26812</DEFECTCODE>
+    <DESCRIPTION>枚举类型“VkIndexType”未设定范围。相比于 "enum"，首选 "enum class" (Enum.3)。</DESCRIPTION>
+    <FUNCTION>VulkanCommandBuffer::pushBindIndexBufferCmd</FUNCTION>
+    <DECORATED>?pushBindIndexBufferCmd@VulkanCommandBuffer@@QEAAXV?$shared_ptr@VVulkanBuffer@@@std@@_KW4VkIndexType@@@Z</DECORATED>
+    <FUNCLINE>88</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

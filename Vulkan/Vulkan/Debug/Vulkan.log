@@ -1,0 +1,12 @@
+﻿  main.cpp
+main.obj : error LNK2019: 无法解析的外部符号 _glfwInit，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _glfwTerminate，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _glfwWindowHint，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _glfwCreateWindow，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _glfwDestroyWindow，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _glfwWindowShouldClose，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _glfwPollEvents，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _vkEnumerateInstanceExtensionProperties@12，该符号在函数 _main 中被引用
+D:\Vulkan\third_party\lib\glfw3.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\Vulkan\third_party\lib\vulkan-1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\Vulkan\Vulkan\Debug\Vulkan.exe : fatal error LNK1120: 8 个无法解析的外部命令

@@ -1,0 +1,5 @@
+﻿  VulkanFramebuffer.cpp
+  main.cpp
+D:\Vulkan\Vulkan\Vulkan\main.cpp(144,60): warning C4267: “参数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  正在生成代码...
+  Vulkan.vcxproj -> D:\Vulkan\Vulkan\x64\Debug\Vulkan.exe

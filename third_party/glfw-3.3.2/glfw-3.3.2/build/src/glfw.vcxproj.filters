@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Vulkan\third_party\glfw-3.3.2\glfw-3.3.2\src\context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Vulkan\third_party\glfw-3.3.2\glfw-3.3.2\src\init.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Vulkan\third_party\glfw-3.3.2\glfw-3.3.2\src\input.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Vulkan\third_party\glfw-3.3.2\glfw-3.3.2\src\monitor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Vulkan\third_party\glfw-3.3.2\glfw-3.3.2\src\vulkan.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Vulkan\third_party\glfw-3.3.2\glfw-3.3.2\src\window.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Vulkan\third_party\glfw-3.3.2\glfw-3.3.2\src\win32_init.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Vulkan\third_party\glfw-3.3.2\glfw-3.3.2\src\win32_joystick.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Vulkan\third_party\glfw-3.3.2\glfw-3.3.2\src\win32_monitor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Vulkan\third_party\glfw-3.3.2\glfw-3.3.2\src\win32_time.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Vulkan\third_party\glfw-3.3.2\glfw-3.3.2\src\win32_thread.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Vulkan\third_party\glfw-3.3.2\glfw-3.3.2\src\win32_window.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Vulkan\third_party\glfw-3.3.2\glfw-3.3.2\src\wgl_context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Vulkan\third_party\glfw-3.3.2\glfw-3.3.2\src\egl_context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Vulkan\third_party\glfw-3.3.2\glfw-3.3.2\src\osmesa_context.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Vulkan\third_party\glfw-3.3.2\glfw-3.3.2\src\internal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Vulkan\third_party\glfw-3.3.2\glfw-3.3.2\src\mappings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Vulkan\third_party\glfw-3.3.2\glfw-3.3.2\build\src\glfw_config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Vulkan\third_party\glfw-3.3.2\glfw-3.3.2\include\GLFW\glfw3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Vulkan\third_party\glfw-3.3.2\glfw-3.3.2\include\GLFW\glfw3native.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Vulkan\third_party\glfw-3.3.2\glfw-3.3.2\src\win32_platform.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Vulkan\third_party\glfw-3.3.2\glfw-3.3.2\src\win32_joystick.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Vulkan\third_party\glfw-3.3.2\glfw-3.3.2\src\wgl_context.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Vulkan\third_party\glfw-3.3.2\glfw-3.3.2\src\egl_context.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Vulkan\third_party\glfw-3.3.2\glfw-3.3.2\src\osmesa_context.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Vulkan\third_party\glfw-3.3.2\glfw-3.3.2\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{379AA8A3-247A-3E69-8C1A-424673FCBC48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{44B94ED4-BD9C-3F05-8563-D5395C14DD0F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
